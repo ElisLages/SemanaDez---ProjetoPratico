@@ -1,0 +1,51 @@
+[{
+    "id": 1,
+    "nome": "Anna",
+    "dataDeNascimento": "25/08/2000",
+    "cargo": "vendedora"
+}, {
+    "id": 2,
+    "nome": "Nayara",
+    "dataDeNascimento": "04/06/1987",
+    "cargo": "vendedora"
+}, {
+    "id": 3,
+    "nome": "Bruna",
+    "dataDeNascimento": "28/02/1990",
+    "cargo": "gerente"
+}, {
+    "id": 4,
+    "nome": "Joana",
+    "dataDeNascimento": "13/03/1989",
+    "cargo": "caixa"
+}, {
+    "id": 5,
+    "nome": "Karol",
+    "dataDeNascimento": "28/11/1995",
+    "cargo": "caixa"
+}, {
+    "id": 6,
+    "nome": "Alexandra",
+    "dataDeNascimento": "28/01/2002",
+    "cargo": "recepcionista"
+}, {
+    "id": 7,
+    "nome": "Renata",
+    "dataDeNascimento": "05/09/1969",
+    "cargo": "gerente financeiro"
+}, {
+    "id": 8,
+    "nome": "Luiza",
+    "dataDeNascimento": "10/01/1992",
+    "cargo": "caixa"
+}, {
+    "id": 9,
+    "nome": "Maria",
+    "dataDeNascimento": "15/03/1990",
+    "cargo": "vendedora"
+}, {
+    "id": 10,
+    "nome": "Raissa",
+    "dataDeNascimento": "29/05/1992",
+    "cargo": "estoquista"
+}]

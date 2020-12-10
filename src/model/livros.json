@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "titulo": "Tomates Verdes e Fritos",
+    "autoria": "Fannie Flaggs",
+    "editora": "Globo Livros",
+    "emEstoque": true
+}, {
+    "id": 2,
+    "titulo": "Homens imprudentemente poéticos",
+    "autoria": "Valter Hugo Mãe",
+    "editora": "Biblioteca Azul",
+    "emEstoque": false
+}, {
+    "id": 3,
+    "titulo": "Os Testamentos",
+    "autoria": "Margaret Atwood",
+    "editora": "Rocco",
+    "emEstoque": true
+}, {
+    "id": 4,
+    "titulo": "Americanah",
+    "autoria": "Chimamanda Ngozi Adichie",
+    "editora": "Companhia das Letras",
+    "emEstoque": true
+}, {
+    "id": 5,
+    "titulo": "Mulherzinhas",
+    "autoria": "Louisa May Alcott",
+    "editora": "Martin Claret",
+    "emEstoque": false
+}, {
+    "id": 6,
+    "titulo": "Ensinando a transgredir",
+    "autoria": "bell hooks",
+    "editora": "WMF Martins Fonte",
+    "emEstoque": true
+}, {
+    "id": 7,
+    "titulo": "Memórias da Plantação",
+    "autoria": "Grada Kilomba",
+    "editora": "Cobogó",
+    "emEstoque": true
+}, {
+    "id": 8,
+    "titulo": "Pequeno Manual Antirracista",
+    "autoria": "Djamila Ribeiro",
+    "editora": "Companhia das Letras",
+    "emEstoque": true
+}, {
+    "id": 9,
+    "titulo": "1984",
+    "autoria": "George Orwell ",
+    "editora": "Companhia das Letras",
+    "emEstoque": true
+}, {
+    "id": 10,
+    "titulo": "O morro dos ventos uivantes",
+    "autoria": "Emily Bronte",
+    "editora": "Principis",
+    "emEstoque": false
+}]

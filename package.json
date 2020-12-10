@@ -1,0 +1,24 @@
+{
+  "name": "SemanaDez---ProjetoPratico",
+  "version": "1.0.0",
+  "description": "Repositório criado para desenvolver o Projeto Prático da décima semana de aulas da turma de back-end da Reprograma em parceria com o Porto Digital M.I.N.As",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElisLages/SemanaDez---ProjetoPratico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElisLages/SemanaDez---ProjetoPratico/issues"
+  },
+  "homepage": "https://github.com/ElisLages/SemanaDez---ProjetoPratico#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.5"
+  }
+}
